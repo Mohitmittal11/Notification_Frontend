@@ -1,0 +1,28 @@
+.forvalue h1 {
+    text-align: center;
+}
+.forvalue input {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+}
+.forvalue input::placeholder {
+    font-size: 15px;
+    font-style: italic;
+}
+
+.forvalue #submitDatabtn {
+    display: block;
+    margin: 20px auto;
+    padding: 8px 10px;
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+    border: none;
+    cursor: pointer;
+}
+.forvalue h2 {
+    text-align: center;
+    color: green;
+}
